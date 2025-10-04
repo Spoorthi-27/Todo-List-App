@@ -120,7 +120,7 @@ The dashboard displays:
 📂 Clone the Repository
 
 
-git clone https://github.com/SpoorthiD/TodoList.git
+git clone https://github.com/SpoorthiD/Todo-List-App.git
 cd TodoList/project
 
 
